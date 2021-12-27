@@ -60,7 +60,7 @@ body {
   display: block;
   margin-left: 25%;
   margin-right: 25%;
-  width: 50%;
+  width: 30%;
  
 
   
@@ -107,7 +107,7 @@ header  table, th, td{
   border: solid;
   color: black;
   background: white;
-  font-size: 25px;
+  font-size: 35px;
   
 }
  header table, th{
@@ -121,7 +121,7 @@ header  table, th, td{
           padding: 10px 20px;
           background: powderblue;
           color: black;
-          font-size: 25px;
+          font-size: 35px;
           
           
       }
