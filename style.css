@@ -1,6 +1,7 @@
 html{
   background: black;
   color: white;
+
   
 }
 /*home ⭐ here*/
@@ -47,6 +48,7 @@ table, th, td{
  }
   section h2{
     color: black;
+    font-size:12px;
   }
  
  
@@ -71,7 +73,7 @@ header{
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background: black;
+  background: white;
   
   
 }
@@ -84,7 +86,7 @@ header{
   text-decoration: none;
   padding: 18px;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  color: white;
+  color: black;
 }
 .navbar{
   display: flex;
