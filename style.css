@@ -107,7 +107,7 @@ header  table, th, td{
   border: solid;
   color: black;
   background: white;
-  font-size: 35px;
+  font-size: 25px;
   
 }
  header table, th{
@@ -121,7 +121,7 @@ header  table, th, td{
           padding: 10px 20px;
           background: powderblue;
           color: black;
-          font-size: 35px;
+          font-size: 25px;
           
           
       }
