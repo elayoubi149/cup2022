@@ -1,0 +1,127 @@
+
+header{
+ text-align: center;
+}
+
+
+header h1{
+  font-size: 70px;
+  text-align: center;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  
+}
+header p{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: green;
+}
+
+
+header a{
+  display: inline-block;
+  text-decoration: none;
+  margin: -2px;
+  padding: -30px;
+  
+  
+  }
+  
+  section ul a{
+    display: inline-block;
+    margin: 15px;
+    padding: 10px;
+    background: yellowgreen;
+    border-radius: 30%;
+    color: black;
+    font-size: 25px;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  header h2 a{
+    width: 100%;
+    text-align: center;
+  }
+  
+  
+
+
+body {
+    font-size: 15pt;
+    background: powderblue;
+}
+  
+  
+.center{
+  display: block;
+  margin-left: 25%;
+  margin-right: 25%;
+  width: 50%;
+ 
+
+  
+}
+  
+   a{
+     display: inline-block;
+     margin: 7px;
+     padding: 80px;
+     
+   }
+  a img{
+    width: 250%;
+  }
+  
+  
+  
+  
+body h1{
+ text-align: center;
+ font-family: fantasy;
+ color: black;
+}
+
+body h2{
+  text-align: center;
+  
+}
+body h2 button{
+  background: green;
+  font-size: 35px;
+  
+}
+header table{
+  width: 93%;
+  border-collapse: collapse;
+  margin: 45px;
+ 
+}
+
+
+
+header  table, th, td{
+  border: solid;
+  color: black;
+  background: white;
+  font-size: 35px;
+  
+}
+ header table, th{
+   background: forestgreen;
+   
+ }
+ 
+ 
+      footer p{
+          text-align: center;
+          padding: 10px 20px;
+          background: powderblue;
+          color: black;
+          font-size: 35px;
+          
+          
+      }
