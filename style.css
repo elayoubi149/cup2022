@@ -16,15 +16,15 @@ html{
   section{
     padding: 10px;
    text-align: center;
-   font-size: 43px;
+   font-size: 25px;
    background: skyblue;
  }
  
  
  table{
-  width: auto;
+  width: 30px;
   border-collapse: collapse;
-  margin: 45px;
+  margin: auto;
  
 }
 
