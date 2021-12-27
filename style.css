@@ -17,7 +17,7 @@ html{
     padding: 10px;
    text-align: center;
    font-size: 25px;
-   background: skyblue;
+   background: white;
  }
  
  
@@ -34,7 +34,7 @@ table, th, td{
   border: solid;
   color: black;
   background: white;
-  font-size: 35px;
+  font-size: 15px;
   
 }
  table, th{
@@ -46,7 +46,7 @@ table, th, td{
    color: black;
  }
   section h2{
-    color: orangered;
+    color: black;
   }
  
  
@@ -88,7 +88,7 @@ header{
 }
 .navbar{
   display: flex;
-  color: red;
+  color: white;
   
 }
 .navbar  a{
