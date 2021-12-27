@@ -1,0 +1,103 @@
+html{
+  background: black;
+  color: white;
+  
+}
+/*home ⭐ here*/
+
+.home{
+ font-size: 40px;
+ padding: 10px;
+ 
+}
+  
+ /*goupA*/
+ 
+  section{
+    padding: 10px;
+   text-align: center;
+   font-size: 43px;
+   background: skyblue;
+ }
+ 
+ 
+ table{
+  width: 93%;
+  border-collapse: collapse;
+  margin: 35px;
+ 
+}
+
+
+
+table, th, td{
+  border: solid;
+  color: black;
+  background: white;
+  font-size: 35px;
+  
+}
+ table, th{
+   background: burlywood;
+   
+ }
+ 
+ section h1{ 
+   color: black;
+ }
+  section h2{
+    color: orangered;
+  }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+header{
+  position: fixed;
+  width: 100%;
+  top: 0;
+  right: 0;
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: white;
+  
+  
+}
+  
+.logo{
+  text-transform: uppercase;
+  font-size: 1rem;
+  text-align: center;
+  font-weight: 90;
+  text-decoration: none;
+  padding: 18px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: red;
+}
+.navbar{
+  display: flex;
+  color: red;
+  
+}
+.navbar  a{
+  text-decoration: none;
+  margin: 20px;
+  font-weight: 500;
+
+}
+header .navbar a:hover{
+  background: seagreen;
+  color: green;
+}
