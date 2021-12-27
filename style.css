@@ -7,14 +7,14 @@ html{
 
 .home{
  font-size: 40px;
- padding: 10px;
+ 
  
 }
   
  /*goupA*/
  
   section{
-    padding: 10px;
+    padding: auto;
    text-align: center;
    font-size: 43px;
    background: skyblue;
