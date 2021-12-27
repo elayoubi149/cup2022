@@ -22,9 +22,9 @@ html{
  
  
  table{
-  width: 93%;
+  width: 40%;
   border-collapse: collapse;
-  margin: 35px;
+  margin: auto;
  
 }
 
@@ -46,7 +46,7 @@ table, th, td{
    color: black;
  }
   section h2{
-    color: orangered;
+    color: black;
   }
  
  
@@ -64,7 +64,7 @@ table, th, td{
 
 header{
   position: fixed;
-  width: 100%;
+  width: 30%;
   top: 0;
   right: 0;
   z-index: 1000;
@@ -82,7 +82,7 @@ header{
   text-align: center;
   font-weight: 90;
   text-decoration: none;
-  padding: 18px;
+  padding: auto;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   color: red;
 }
@@ -93,7 +93,7 @@ header{
 }
 .navbar  a{
   text-decoration: none;
-  margin: 20px;
+  margin: auto;
   font-weight: 500;
 
 }
